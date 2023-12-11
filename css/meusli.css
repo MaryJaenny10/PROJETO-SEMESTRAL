@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Milonga&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: 0;
+  
+}
+body{
+    background-image: url(/Projeto/img/fun.png);
+}
+
+#caixaum{
+    text-align: center;
+    background-color:rgb(249, 0, 0);
+    width: 98,5%;
+    height:8px;
+    padding: 30px;
+    text-align: center;
+    text-indent: 1.25cm;
+    display: flex;
+    justify-content: space-around;
+    
+}
+#se{
+    margin-right:1400px;
+    margin-top: -20px;
+    position: absolute;
+}
+.jk{
+
+    margin-top: 60px;
+    width: 1250px;
+    height:290px;
+    margin-left: 150px;
+    display: flex;
+    background-color: rgba(160, 160, 160, 0.676);
+    border-radius: 10px;
+    font-family: 'Milonga', cursive;
+   
+}
+
+.fr{
+    width: 150px;
+    padding: 27px;
+    padding-left: 50px;
+}
+#gh{
+    margin-top: 50px;
+    font-size: 20px;
+    color: rgb(244, 50, 24);
+   
+}
+#pl {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin-top: 35px;
+   
+}
+#po{
+    line-height: 50px;
+  
+}
+#gl{
+    text-align: center;
+    background-color:rgb(249, 0, 0);
+    width: 98,5%;
+    height:90px;
+
+}
+#pll{
+    margin-left: 10px;
+}
+#ini{
+    text-align: center;
+    background-color:rgb(126, 27, 27);
+    width: 98,5%;
+    height:60px;
+    margin-top:260px ;
+}
+.kl{
+    color: rgb(255, 255, 255);
+    background-color:rgb(126,27,27);
+    width: 100px;
+    height: 30px;
+    margin-left: 5px;
+    margin-top: 20px;
+ 
+}
+#jk{
+    font-size: 12px;
+    margin-left: -100px;
+    margin-top: 30px;
+}
+#ol{
+    margin-top: 45px;
+    margin-left: 45px;
+}
+
+

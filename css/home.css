@@ -1,0 +1,173 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: 0;
+  
+}
+body{
+    background-image: url(/Projeto/img/fun.png);
+}
+
+   
+#caixaum{
+    text-align: center;
+    background-color:rgb(249, 0, 0);
+    width: 98,5%;
+    height:8px;
+    padding: 30px;
+    text-align: center;
+    text-indent: 1.25cm;
+    display: flex;
+    justify-content: space-around;
+}
+#se{
+    margin-right:1400px;
+    margin-top: -20px;
+    position: absolute;
+   
+}
+.lli{
+    margin-top: -10px;
+}
+#sai{
+   margin-left: 1300px;
+   display: flex;
+   justify-content: space-around;
+
+}
+#camera{
+    margin-left: -200px;
+    display: flex;
+    margin-top: -10px;
+    justify-content: space-around;
+}
+#uh{
+    display: flex;
+    position: absolute;
+    margin-left: 1050px;
+    margin-top: -10px;
+}
+
+#ho{
+    margin-top: -10px;
+    margin-right: 1200px;
+    position: absolute;
+}
+#pe{
+    margin-left: 1320px;
+    color: aliceblue;
+    margin-top: 1px;
+    position: absolute;
+    
+  
+}
+.Menu-Vertical {
+    position: absolute;
+    top: 67px;
+    width: 325px;
+    height: 2782px;
+    padding-top: 15px;
+    border-right: 2px solid gray;
+   
+}
+.Autores {
+    margin-left: 15px;
+    border: 1px red solid;
+    border-radius: 5px;
+    width: 291px;
+    height: 290px;
+    background-color: white;
+   
+}
+.Barra-Autor {
+    border: 1px gray solid;
+    border-radius: 5px;
+    width: 270px;
+    height: 40px;
+    padding-left: 20px;
+    
+}
+.Escolha-Autores {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+input[type="checkbox"] {
+    
+    border: 2px red solid;
+    border-radius: 3px;
+    width: 20px;
+    height: 20px;
+}
+input[type="checkbox"]:checked {
+    background-color: red;
+    
+}
+.Corpo-Dois {
+    margin-left: 325px;
+    position: relative;
+    top: 135px;
+}
+
+.Autor-Um {
+    margin-left: 20px;
+}
+
+.Livros-Img {
+    width: 200px;
+    border:3px rgb(95, 89, 89) solid;
+    border-radius: 15px;
+    margin-bottom: 50px;
+    margin-right: 30px;
+}
+.Livros-Img:hover {
+    transition-duration: 500ms;
+    width: 230px;
+    margin-bottom: 1px;
+}
+.Catalogo {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+}
+.Autor-Dois {
+    margin-left: 20px;
+}
+
+.Autor-4{
+    margin-left: 20px;
+}
+.Autor-5{
+    margin-left: 20px;
+}
+#gl{
+    text-align: center;
+    background-color:rgb(249, 0, 0);
+    width: 98,5%;
+    height:90px;
+
+}
+#pl{
+    margin-left: 10px;
+}
+#ini{
+    text-align: center;
+    background-color:rgb(126, 27, 27);
+    width: 98,5%;
+    height:60px;
+    margin-top:260px ;
+}
+.kl{
+    color: rgb(255, 255, 255);
+    background-color:rgb(126,27,27);
+    width: 100px;
+    height: 30px;
+    margin-left: 5px;
+    margin-top: 20px;
+ 
+}
+
+
+
+
+  

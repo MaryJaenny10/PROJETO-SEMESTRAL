@@ -1,0 +1,222 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: 0;
+  
+}
+body{
+    background-image: url(/Projeto/img/fun.png);
+}
+
+   
+#caixaum{
+    text-align: center;
+    background-color:rgb(249, 0, 0);
+    width: 98,5%;
+    height:8px;
+    padding: 30px;
+    text-align: center;
+    text-indent: 1.25cm;
+    display: flex;
+    justify-content: space-around;
+}
+#se{
+    margin-right:1400px;
+    margin-top: -20px;
+    position: absolute;
+   
+}
+#mapa{
+    margin-left:900px;
+    margin-top: -15px;
+    position: absolute;
+}
+
+.lli{
+    margin-top: -10px;
+}
+#sai{
+   margin-left: 1300px;
+   display: flex;
+   justify-content: space-around;
+
+}
+#uh{
+    display: flex;
+    position: absolute;
+    margin-left: 1050px;
+    margin-top: -10px;
+}
+
+#lk{
+    display: flex;
+    position: absolute;
+    margin-top: 70px;
+    font-size: 25px;
+    margin-left: 545px;
+}
+#lç{
+    margin-left: 440px;
+   margin-top: 190px;
+    border: 1px rgb(108, 106, 106) solid;
+    border-radius: 5px;
+    width: 650px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+}
+.pl{
+    margin-left: 20px;
+    padding: 25px;
+    font-size: 20px;
+    
+}
+.lp{
+    margin-left:65px;
+    font-size: 25;
+}
+#oi{
+    margin-left: 330px;
+    margin-top: -70px;
+    rotate: 15deg;
+}
+.rt{
+    border: 1px gray solid;
+    border-radius: 5px;
+    width: 270px;
+    height: 40px;
+    padding-left: 20px;
+    display: flex;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+#hj{
+    margin-top: 20px;
+    margin-left: -30px;
+}
+#gf{
+    display: flex;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: -10px ;
+    font-size: 19px;
+}
+#li3{
+    position: fixed;
+    border: 1px solid rgb(229, 89, 89);
+    width: 500px;
+    margin-left: 2px;
+    margin-top: 10px;
+}
+#jk{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+#lw3{
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 500px ;
+    background-color:   rgb(229,89,89);
+    height: 8px;
+    width: 8px;
+    rotate: 45deg; 
+}
+#wl3{
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 3px ;
+    background-color:   rgb(229,89,89);
+    height: 8px;
+    width: 8px;
+    rotate: 45deg; 
+}
+#vb{
+    padding: 10px;
+    margin-top: -20px;
+    margin-left: 10px;
+}
+#li2{
+    position: absolute;
+    border: 1px solid rgb(229, 89, 89);
+    width: 500px;
+    margin-left: 2px;
+    margin-top: -2px;
+}
+#lw2{
+    position: absolute;
+    margin-top: -6px;
+    margin-left: 500px ;
+    background-color:   rgb(229,89,89);
+    height: 8px;
+    width: 8px;
+    rotate: 45deg; 
+}
+#wl2{
+    position: absolute;
+    margin-top: -6px;
+    margin-left: 3px ;
+    background-color:   rgb(229,89,89);
+    height: 8px;
+    width: 8px;
+    rotate: 45deg; 
+}
+#cv{
+    padding: 25px;
+    margin-left:-10px;
+}
+#li4{
+    position: absolute;
+    border: 1px solid rgb(229, 89, 89);
+    width: 500px;
+    margin-left: 2px;
+    margin-top: -20px;
+}
+#lw4{
+    position: absolute;
+    margin-top: -25px;
+    margin-left: 500px ;
+    background-color:   rgb(229,89,89);
+    height: 8px;
+    width: 8px;
+    rotate: 45deg; 
+}
+#wl4{
+    position: absolute;
+    margin-top: -24px;
+    margin-left: 3px ;
+    background-color:   rgb(229,89,89);
+    height: 8px;
+    width: 8px;
+    rotate: 45deg; 
+}
+#sd{
+    margin-left: 10px;
+}
+#li5{
+    position: absolute;
+    border: 1px solid rgb(229, 89, 89);
+    width: 500px;
+    margin-left: 2px;
+    margin-top: 10px;
+}
+#lw5{
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 500px ;
+    background-color:   rgb(229,89,89);
+    height: 8px;
+    width: 8px;
+    rotate: 45deg; 
+}
+#wl5{
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 3px ;
+    background-color:   rgb(229,89,89);
+    height: 8px;
+    width: 8px;
+    rotate: 45deg; 
+}
+
+

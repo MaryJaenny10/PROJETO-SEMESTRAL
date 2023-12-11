@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/ajuda.css">
+    <title>Document</title>
+</head>
+<body>
+  
+    <div id="caixaum">
+        <div id="se">
+           <a href="home.html">
+       <img src="img/sesi-logo-7.png" height="50">
+    </a>
+        </div>
+        <div id="uh">
+           <a href="#">
+               <img src="img/ajuda2-removebg-preview.png" height="40">
+           </a>
+        </div>
+               <div id="sai">
+                   <div class="lli">
+                   <a href="meusli.html">
+                       <img src="img/book.png" height="40">
+                      </a> 
+                   </div>
+                   <a href="conta.html">
+                   <img src="img/right-arrow.png" height="20">
+                   </a>
+                  
+                </div>
+                <div id="mapa">
+                    <img src="img/mapas-e-bandeiras.png" height="40" onclick="getLocation()">
+                </div>
+       
+    </div>  
+          
+             <div id="lk">
+                <h2>Procurar tópicos de ajuda: </h2>
+             </div>
+             <div id="lç">
+                <div class="pl">
+                    <p> Soluções rápidas</p>
+                </div>
+                    <div class="lp">
+                        <div id="vb">
+                            <p> -Alterar a senha. </p>
+                        </div>
+                        <hr id="li2"> <div id="lw2"></div><div id="wl2"></div>
+                        <div id="jk">
+                            <p> -Onde será feito a retirada o livro?</p>
+                        </div>
+                        <hr id="li3"> <div id="lw3"></div><div id="wl3"></div>
+                        <div id="cv">
+                            <p> -A biblioteca fica aberta até que horas?</p>
+                        </div>
+                        <hr id="li4"> <div id="lw4"></div><div id="wl4"></div>
+                        <div id="sd">
+                            <p> -Não estou conseguindo reservar o livro.</p>
+                        </div>
+                        <hr id="li5"> <div id="lw5"></div><div id="wl5"></div>
+                        <div id="gf">
+                        <p> Encontre mais soluções </p>
+                        </div>
+                        <div id="hj">
+                            <input type="text" placeholder="" class="rt">
+                        </div>
+                            <div id="oi">
+                                <img src="img/ferr-removebg-preview.png">
+                            </div>
+                       
+             </div>
+             <div>
+                 <p>Latitude: <span id="latitude"></span></p>
+                 <p>Longitude: <span id="longitude"></span></p>
+                <div id="map"></div>
+             </div>
+             <script src="JS/script.js"></script>
+             <script async defer src="https://maps.googlepis.com/maps/api/js?key=AIzaSyDTBurXRBcjzttrAlVDvlntZqgwkRf4-kA&callback=initMap"></script>
+
+</body>
+</html>
+

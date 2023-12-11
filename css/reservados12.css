@@ -1,0 +1,137 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Milonga&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: 0;
+  
+}
+body{
+    background-image: url(/Projeto/img/fun.png);
+}
+
+   
+ 
+
+#caixaum{
+    text-align: center;
+    background-color:rgb(249, 0, 0);
+    width: 98,5%;
+    height:8px;
+    padding: 30px;
+    text-align: center;
+    text-indent: 1.25cm;
+    display: flex;
+    justify-content: space-around;
+    
+}
+#se{
+    margin-right:1400px;
+    margin-top: -20px;
+    position: absolute;
+}
+.Corpo-Dois {
+    margin-left: 10px;
+    position: relative;
+    top: 80px;
+}
+.re{
+    margin-left: 200px;
+    margin-bottom: 25px;
+    
+}
+.Livros-Img {
+    width: 300px;
+}
+#lk{
+    
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    margin-left: 240px;
+    display: flex;-ms-flex-align: center;
+    background-color: rgba(160, 160, 160, 0.676);
+    border-radius: 10px;
+    padding: 10px;
+}
+.jk{
+    position: absolute;
+    margin-top: -400px;
+    width: 550px;
+    height: 400px;
+    margin-left: 750px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(160, 160, 160, 0.676);
+    border-radius: 10px;
+    font-family: 'Milonga', cursive;
+   padding: 20px;
+}
+#te{
+    margin-top: 20px;
+}
+.pl{
+    margin-top: 10px;
+    font-size: 15px;
+}
+#hj{
+    display: flex;
+    justify-content: center;
+}
+.rx{
+    color:white;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: rgb(235, 76, 95);
+}
+.xr{
+    color:white;
+    background-color: rgb(255, 0, 30);
+    width: 100px;
+    height: 30px;
+    margin-left: 100px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.arrumador {
+    display: flex;
+}
+#gl{
+    text-align: center;
+    background-color:rgb(249, 0, 0);
+    width: 98,5%;
+    height:90px;
+}
+#pl{
+    margin-left: 10px;
+    margin-top: 290px;
+}
+#ol{
+    margin-top: 45px;
+    margin-left: 45px;
+}
+.estrelas{
+    margin-top:-20px ;
+    margin-left: 280px;
+}
+
+.estrelas input[type=radio] {
+  display: none;
+ 
+}
+.estrelas label i.fa{
+  font-size: 1.5em;
+}
+.estrelas label i.fa:before {
+  content:'\f005';
+  color: #FC0;
+}
+.estrelas input[type=radio]:checked ~ label i.fa:before {
+  color: #CCC;
+}
